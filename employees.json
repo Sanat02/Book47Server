@@ -1,0 +1,198 @@
+[
+  {
+    "firstName": "Angelina",
+    "lastName": "Jolie",
+    "email": "angelina.@gmail.com",
+    "job": "Ceo",
+    "phone": "0779137552",
+    "image": "images/e10.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Prince",
+    "lastName": "Charming",
+    "email": "charming.@gmail.com",
+    "job": "Developer",
+    "phone": "0775537572",
+    "image": "images/e2.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Emilia",
+    "lastName": "Clarke",
+    "email": "emy.@gmail.com",
+    "job": "Hr-manager",
+    "phone": "0559137572",
+    "image": "images/e3.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Harry",
+    "lastName": "Potter",
+    "email": "potter.@gmail.com",
+    "job": "Developer",
+    "phone": "0779137572",
+    "image": "images/e4.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Princess",
+    "lastName": "Tiana",
+    "email": "prtiana.@gmail.com",
+    "job": "Team-lead",
+    "phone": "0788137572",
+    "image": "images/e6.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Vin",
+    "lastName": "Diesel",
+    "email": "dizel.@gmail.com",
+    "job": "Hr-manager",
+    "phone": "0776667572",
+    "image": "images/e7.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Alan",
+    "lastName": "Rickman",
+    "email": "rick@gmail.com",
+    "job": "Director",
+    "phone": "0777137572",
+    "image": "images/e8.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Prince",
+    "lastName": "Harry",
+    "email": "harryroyal.@gmail.com",
+    "phone": "0733337572",
+    "image": "images/e9.jpg",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Sancho",
+    "lastName": "Emil",
+    "password": "12345",
+    "email": "sancho@gmail.com",
+    "image": "jojo.png",
+    "currentBooks": [
+      {
+        "name": "The Giver",
+        "genre": "fairy-tayle",
+        "author": "unknown",
+        "image": "images/giver.jpg",
+        "state": "given",
+        "bookTaker": "sancho@gmail.com",
+        "year": "1865"
+      }
+    ],
+    "takenBooks": [
+      {
+        "name": "Alice in Wonderland",
+        "genre": "fairy-tayle",
+        "author": "unknown",
+        "image": "images/alice.jpg",
+        "state": "given",
+        "bookTaker": "sancho@gmail.com",
+        "year": "1865"
+      }
+    ],
+    "cookieId": "d345356"
+  },
+  {
+    "firstName": "Sia",
+    "lastName": "Nora",
+    "password": "12345",
+    "email": "sia@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": [],
+    "cookieId": "6ff219"
+  },
+  {
+    "firstName": "Du",
+    "lastName": "Di",
+    "password": "12345",
+    "email": "du@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": [],
+    "cookieId": "1f71f48"
+  },
+  {
+    "firstName": "Dias",
+    "lastName": "Bora",
+    "password": "12345",
+    "email": "dias@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": [],
+    "cookieId": "0"
+  },
+  {
+    "firstName": "Fiona",
+    "lastName": "Ogr",
+    "password": "12345",
+    "email": "fiona@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Shrek",
+    "lastName": "Ogr",
+    "password": "12345",
+    "email": "shrek@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": [],
+    "cookieId": "243f7e"
+  },
+  {
+    "firstName": "Di",
+    "lastName": "Do",
+    "password": "12345",
+    "email": "dog@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": []
+  },
+  {
+    "firstName": "Salman",
+    "lastName": "Khan",
+    "password": "12345",
+    "email": "salman@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": [],
+    "cookieId": "723606a"
+  },
+  {
+    "firstName": "Sara",
+    "lastName": "Bo",
+    "password": "12345",
+    "email": "sara@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": [],
+    "cookieId": "2460354"
+  },
+  {
+    "firstName": "Fara",
+    "lastName": "Ria",
+    "password": "12345",
+    "email": "fara@gmail.com",
+    "image": "user.png",
+    "currentBooks": [],
+    "takenBooks": []
+  }
+]
